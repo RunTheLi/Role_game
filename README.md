@@ -1,2 +1,2 @@
 # Role_game
-Hello
+Role playing game . Based on the freecodecamp project.
